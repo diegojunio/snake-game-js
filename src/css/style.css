@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.gameboard {
+    
+}
+
+#game-screen {
+    border: 1px solid black;
+}
+
+#score {
+    font-size: 2em;
+    font-weight: 600;
+}
